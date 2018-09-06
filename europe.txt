@@ -1,0 +1,20 @@
+london
+paris
+rome
+berlin
+barcelona
+vienna
+zurich
+moscow
+saint petersburg
+budapest
+warsaw
+munich
+prague
+amsterdam
+brussels
+dublin
+madrid
+stockholm
+oslo
+helsinki

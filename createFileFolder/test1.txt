@@ -1,0 +1,22 @@
+Q1
+Your Answer: banana split
+Correct Answer: banana split
+
+Q2
+Your Answer: rocky road
+Correct Answer: butter pecan
+
+Q3
+Your Answer: pinochio
+Correct Answer: chocolate chip
+
+Q4
+Your Answer: neapolitan
+Correct Answer: neapolitan
+
+Q5
+Your Answer: mango
+Correct Answer: mango
+
+FILE NAME: test1
+TOTAL SCORE: 3/5
